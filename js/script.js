@@ -29,4 +29,4 @@ const divide = (number1, number2) => number1/number2
 
 
 
-alert(additon(number1,number2))
+alert(divide(number1,number2))
