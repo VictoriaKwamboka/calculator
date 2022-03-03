@@ -19,12 +19,13 @@ var number2 = parseInt(prompt('Enter another number: '));
 
 //subtraction
 
-var subtraction = (no1, no2) => no1 - no2;
+const subtraction = (number1, number2) => number1 - number2;
 
 //multiplication
 const multiply = (number1, number2) => number1 * number2
 
 //division
+const divide = (number1, number2) => number1/number2
 
 
 
